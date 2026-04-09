@@ -16,7 +16,7 @@ dependencies:
   flutter:
     sdk: flutter
   archive: ^3.3.7
-  flutter_slidable: ^3.0.0
+  flutter_slidable: ^4.0.3
   share_plus: ^7.0.2
   intl: ^0.18.1
 
